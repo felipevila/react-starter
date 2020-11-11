@@ -1,5 +1,13 @@
 # React Starter
 
+* CRA
+* Redux w/ Redux Toolkit
+* React Router Dom
+* Material UI
+* Styled Components
+* React Spring (Animation library)
+* ESlint & Prettier
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
